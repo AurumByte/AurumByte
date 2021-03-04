@@ -10,3 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with implementation for a couple of features (Arrays, etc.) and issue fixes. 
 
 Formerly [CodeUnstable](https://github.com/CodeUnstable). Changed to (Created) another GitHub profile.
+
+Old Profile stuff (Blog, articles) etc. will stay on GitHub until moved to this account.
