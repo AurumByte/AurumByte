@@ -1,10 +1,10 @@
-### Hi there! I'm CodeGlytch 👋
+### Hi there! I'm AurumByte 👋
 
 I'm a glitch who loves to create stuff with code.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Cylvre](https://github.com/Cylvre-Language/Cylvre)
+- 🔭 I’m currently working on [Crypt](https://github.com/Crypt-Language/Crypt)
 - 🌱 I’m currently learning Java (properly)
 - 👯 I’m looking to collaborate on open source projects (which I can help with)
 - 🤔 I’m looking for help with implementation for a couple of features (Arrays, etc.) and issue fixes for [Cylvre](https://github.com/Cylvre-Language/Cylvre). 
