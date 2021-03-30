@@ -10,4 +10,6 @@ Here are some ideas to get you started:
 
 Formerly [CodeUnstable](https://github.com/CodeUnstable). Changed to (Created) another GitHub profile.
 
-Old Profile stuff (Blog, articles) etc. will stay on GitHub until moved to this account.
+[![AurumByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=AurumByte)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AurumByte)](https://github.com/anuraghazra/github-readme-stats)
