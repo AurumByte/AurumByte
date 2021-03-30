@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java (properly)
 - 👯 I’m looking to collaborate on open source projects (which I can help with)
 
-Formerly [CodeUnstable](https://github.com/CodeUnstable). Changed to (Created) another GitHub profile.
+Formerly [CodeUnstable](https://github.com/CodeUnstable). 
 
 [![AurumByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=AurumByte)](https://github.com/anuraghazra/github-readme-stats)
 
