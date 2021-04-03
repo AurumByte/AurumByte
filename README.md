@@ -1,12 +1,10 @@
 ### Hi there! I'm AurumByte 👋
 
-I'm a glitch who loves to create stuff with code.
-
-Here are some ideas to get you started:
+I'm a programming enthusiast with an interest in all things code + practical. 
 
 - 🔭 I’m currently working on [Crypt](https://github.com/Crypt-Language/Crypt)
-- 🌱 I’m currently learning Java (properly and thoroughly)
-- 👯 I’m looking to collaborate on open source projects (which I can help with)
+- 🌱 I’m currently learning Java, C++, and a bit of Kotlin
+- 👯 I’m looking to collaborate on open source projects 
 
 [![AurumByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=AurumByte)](https://github.com/anuraghazra/github-readme-stats)
 
