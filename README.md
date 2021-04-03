@@ -3,8 +3,12 @@
 I'm a programming enthusiast with an interest in all things code + practical. 
 
 - 🔭 I’m currently working on [Crypt](https://github.com/Crypt-Language/Crypt)
-- 🌱 I’m currently learning Java, C++, and a bit of Kotlin
-- 👯 I’m looking to collaborate on open source projects 
+- 🌱 I’m currently learning:
+  - Game Development using Unity.
+  - Java
+  - C++
+  - How programming languages work under the hood. (By building [Crypt](https://github.com/Crypt-Language/Crypt))
+ 
 
 [![AurumByte's GitHub stats](https://github-readme-stats.vercel.app/api?username=AurumByte)](https://github.com/anuraghazra/github-readme-stats)
 
