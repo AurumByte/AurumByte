@@ -6,7 +6,7 @@
 ### <div align="center">Hi! I'm AurumByte, a self-taught developer with a liking to everything practical made with code.</div>  
   
 
-- 🔭 I’m currently working on   
+- 🔭 I’m currently working on [Crypt](https://github.com/Crypt-Language/Crypt) and SypherEngine (alternatively so that i don't get burnt out)  
   
 
 - 🌱 I’m currently learning C++, Unity and advanced web dev  
