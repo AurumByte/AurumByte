@@ -13,16 +13,8 @@
     <div align="center">
     <h1>
       <sub>
-        <img src="https://avatars.githubusercontent.com/u/70792552?v=4" height="44">
       </sub>
       AurumByte
-    </h1>
-    <p align="center"><img width="40" src="https://user-images.githubusercontent.com/70792552/128982162-96a418f9-afce-4f5d-9c36-2ed25a5b71b3.gif"></p>
-    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br><br>
-    <img src="https://user-images.githubusercontent.com/70792552/128990086-12b3de0e-55c1-432b-aee0-be94acd13875.gif" align="right" width="500px">
-    <img src='https://data.whicdn.com/images/354171585/original.gif' width='175px'>
     <br>
     <p>
       About
