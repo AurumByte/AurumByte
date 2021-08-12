@@ -1,57 +1,72 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+<p align="left"><strong><samp>🍙</samp></strong></p><p align="center">
+    <samp>
+    Hello there, I'm billy, I like cookies.<br>
+    🥐•🍘
+    </samp>
+    <br>
+</p><p align="right"><strong><samp>🍙</samp></strong></p>
+<br>
 
-### <div align="center">Hi! I'm AurumByte, a self-taught developer with a liking to everything practical made with code.</div>  
-  
-
-- 🔭 I’m currently working on [Crypt](https://github.com/Crypt-Language/Crypt) and SypherEngine (alternatively so that i don't get burnt out)  
-  
-
-- 🌱 I’m currently learning C++, Unity and advanced web dev  
-  
-
-- ❓ Ask me about anything related to Java or programming language development.  
-  
-
-- ⚡ Fun fact: I have a borderline obsession to compiler development.  
-  
-
-<br/>  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/AurumByte" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://stackoverflow.com/users/AurumByte" target="_blank">
-<img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AurumByte&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=AurumByte&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-<div align="center"></div>  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<details align="center">
+<summary>&#9776; 🍙bout</summary>
+    <h2></h2>
+    <div align="center">
+    <h1>
+      <sub>
+        <img src="https://avatars.githubusercontent.com/u/70792552?v=4" height="44">
+      </sub>
+      billyeatcookies
+    </h1>
+    <p align="center"><img width="40" src="https://user-images.githubusercontent.com/70792552/128982162-96a418f9-afce-4f5d-9c36-2ed25a5b71b3.gif"></p>
+    <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/><br><br>
+    <img src="https://user-images.githubusercontent.com/70792552/128990086-12b3de0e-55c1-432b-aee0-be94acd13875.gif" align="right" width="500px">
+    <img src='https://data.whicdn.com/images/354171585/original.gif' width='175px'>
+    <br>
+    <p>
+      Hello there! I'm billy, a lil artist, gamedev and programmer, sometimes I draw people uwu 
+      (tbh they turns out pretty bad and stupid and people start yelling at me for doing such a horrible thing to them xd)
+      <br><br>
+      Not much but I do watch a lil bit anime, mostly romatic and the sad ones that makes you cry like hell. The favorite being <a href="https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream_of_a_Dreaming_Girl">bunny girl senpai</a>.
+      <br><br>
+      Most of the time my headphones are on my head, I listen to Pop. nope, no hiphop, not my taste.
+      Favoriteistist artists being Justin Bieber and Troye Sivan uwu.
+    </p>
+    <br>
+    <a href="https://billyeatcookies.itch.io">
+      <img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white">
+    </a>
+    <a href="https://twitter.com/billyeatcookies">
+      <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    </a>
+    <br>
+    <a href="https://discord.gg/zAHR4dFFJ8">
+      <img alt="Discord" src="https://img.shields.io/badge/Billy's Basement-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    </div>
+    <br>
+    <p align="center">
+        <samp>
+        <a href="https://www.twitch.tv/billyeatcookies" target="_blank">Twitch</a> •
+        <a href="https://twitter.com/billyeatcookies" target="_blank">Twitter</a> •
+        <a href="https://www.deviantart.com/billyeatcookies" target="_blank">DeviantArt</a>
+        </samp>
+    </p>
+    <p align="center">
+      <img align="center" src="https://github.com/billyeatcookies/billyeatcookies/blob/output/github-contribution-grid-snake.svg" alt="twitter/billyeatcookies" />
+    </p>
+    <h2></h2>
+    <p align="center">
+        <a href="https://github.com/billyeatcookies" target="_blank">
+            <img alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=00000000&layout=compact&username=billyeatcookies&hide_border=true&title_color=c9d1d9&text_color=c3c5cd"/>
+            <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?bg_color=00000000&username=billyeatcookies&show_icons=true&include_all_commits=true&count_private=true&hide=commits&hide_border=true&icon_color=4C566A&title_color=c9d1d9&text_color=c3c5cd"/>
+        </a>
+    </p>
+    <h2></h2>
+    <p align="center">
+        <a target="_blank" href="https://spotify-github-profile.vercel.app/api/view?uid=tka9mon1k1ur6olrq8c04yvij&redirect=true">
+            <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=8sqr1p3xjg3hxh7kzl94vfwdz&theme=novatorem"/>
+        </a>
+    </p>
+</details>
