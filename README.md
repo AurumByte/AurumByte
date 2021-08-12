@@ -1,6 +1,6 @@
 <p align="left"><strong><samp>🍙</samp></strong></p><p align="center">
     <samp>
-    Hello there, I'm billy, I like cookies.<br>
+    Hey There! AurumByte here, Java and (budding)Rust programmer<br>
     🥐•🍘
     </samp>
     <br>
@@ -15,7 +15,7 @@
       <sub>
         <img src="https://avatars.githubusercontent.com/u/70792552?v=4" height="44">
       </sub>
-      billyeatcookies
+      AurumByte
     </h1>
     <p align="center"><img width="40" src="https://user-images.githubusercontent.com/70792552/128982162-96a418f9-afce-4f5d-9c36-2ed25a5b71b3.gif"></p>
     <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
@@ -25,15 +25,14 @@
     <img src='https://data.whicdn.com/images/354171585/original.gif' width='175px'>
     <br>
     <p>
-      Hello there! I'm billy, a lil artist, gamedev and programmer, sometimes I draw people uwu 
-      (tbh they turns out pretty bad and stupid and people start yelling at me for doing such a horrible thing to them xd)
+      About
       <br><br>
-      Not much but I do watch a lil bit anime, mostly romatic and the sad ones that makes you cry like hell. The favorite being <a href="https://en.wikipedia.org/wiki/Rascal_Does_Not_Dream_of_a_Dreaming_Girl">bunny girl senpai</a>.
+      About
       <br><br>
-      Most of the time my headphones are on my head, I listen to Pop. nope, no hiphop, not my taste.
-      Favoriteistist artists being Justin Bieber and Troye Sivan uwu.
+      About
     </p>
     <br>
+        <!--
     <a href="https://billyeatcookies.itch.io">
       <img alt="Itch.io" src="https://img.shields.io/badge/Itch%20-%23FF0B34.svg?&style=for-the-badge&logo=Itch.io&logoColor=white">
     </a>
@@ -69,4 +68,5 @@
             <img width="100%" alt="Now Playing" src="https://spotify-github-profile.vercel.app/api/view?uid=8sqr1p3xjg3hxh7kzl94vfwdz&theme=novatorem"/>
         </a>
     </p>
+-->
 </details>
