@@ -33,9 +33,10 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AurumByte&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AurumByte&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-<br/>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aurumbyte" align="center" /></div>
+<br>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=AurumByte&&style=flat-square" align="center" />
